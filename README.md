@@ -1,1 +1,55 @@
-# Reg
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>App</key>
+	<string>com.dts.freefireth</string>
+	<dict>
+		<key>AimHead</key>
+		<string>1</string>
+		<key>NoRecoil</key>
+		<string>1</string>
+		<key>AutoPinHead</key>
+		<string>1</string>
+		<key>NoDelay</key>
+		<string>1</string>
+		<key>HeadLock</key>
+		<string>1</string>
+		<key>RedBloodMode</key>
+		<string>1</string>
+		<key>YellowBloodMode</key>
+		<string>0</string>
+		<key>WhiteBloodMode</key>
+		<string>0</string>
+		<key>ScoreAimHead</key>
+		<string>1</string>
+		<key>FovHead</key>
+		<string>1</string>
+		<key>ScoreLockHead</key>
+		<string>1</string>
+		<key>BulletsAimHead</key>
+		<string>1</string>
+		<key>AutoHeadShots</key>
+		<string>1</string>
+		<key>ReduceOverHead</key>
+		<string>1</string>
+		<key>GameModeResolution</key>
+		<string>4570x2111</string>
+		<key>AimHeadSpeeds</key>
+		<string>0.1</string>
+		<key>MaxFPS</key>
+		<string>60</string>
+		<key>DPI</key>
+		<string>938</string>
+		<key>PinHeadSpeeds</key>
+		<string>0.1</string>
+	</dict>
+	<key>Person1</key>
+	<dict>
+		<key>Name</key>
+		<string>Haddy</string>
+		<key>Age</key>
+		<integer>19</integer>
+	</dict>
+</dict>
+</plist>
